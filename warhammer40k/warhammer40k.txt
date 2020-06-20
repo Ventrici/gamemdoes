@@ -1,0 +1,8 @@
+
+"warhammer40k"
+{
+	"base" 			"helix"
+	"title" 		"warhammer40k"
+	"author" 		"nebulous"
+	"menusystem"	"1"
+}
